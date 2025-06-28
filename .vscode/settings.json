@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": {
+
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlayHints.enabled": "on",
+    "editor.parameterHints.enabled": true,
+    "files.associations": {
+        "vector": "cpp"
+    }
+
+}
