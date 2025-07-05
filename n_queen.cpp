@@ -79,7 +79,7 @@ int nqueen(vector<vector<char>> &chessboard, int row)
 {
     vector<vector<char>> chessboard;
 
-    int n =5; //  chess size here
+    int n =4; //  chess size here
 
     for(int i =0;i<n;i++){
         vector<char> row;
