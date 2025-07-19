@@ -1,0 +1,14 @@
+# Executable files (anywhere in the project)
+*.exe
+**/*.exe
+
+# IDE and Editor directories
+.idea/
+.qodo/
+.vscode/
+
+# Common C++ build artifacts
+*.o
+*.obj
+*.out
+*.app
